@@ -11,7 +11,7 @@ class Router extends Component {
 
     render() {
         return (
-            <BrowserRouter >
+            <BrowserRouter basename='/secureapp'>
                 <Switch>
                     <Route exact path='/slide' component={SlideView}></Route>
                     <Route exact path='/' component={Home}></Route>
