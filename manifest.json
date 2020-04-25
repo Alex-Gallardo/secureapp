@@ -1,6 +1,11 @@
 {
   "short_name": "Secure",
   "name": "The Cybersecurity App",
+  "start_url": "https://alex-gallardo.github.io/secureapp/slide",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,10 +22,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": "/",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "orientation": "portrait",
-  "background_color": "#ffffff"
+  ]
 }
