@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import Home from './Home.js'
 import SlideView from './Slideview'
 import Perfil from './Perfil.js'
-
+import Information from './Information'
 
 class Router extends Component {
     // colocar los datos del clima
@@ -16,6 +16,15 @@ class Router extends Component {
                     <Route exact path='/slide' component={SlideView}></Route>
                     <Route exact path='/' component={Home}></Route>
                     <Route exact path='/perfil' component={Perfil}></Route>
+                    <Route exact path='/info/:infoId' render={(props) => {
+                        // console.log('Props.', props)
+                        let idclima = props.location.pathname.replace('/info/', '')
+                        return (
+                            <Information
+                                secc={idclima}
+                            />
+                        )
+                    }}></Route>
                     {/* <Route exact path='/ambientes' component={Ambientes}></Route>
                     <Route exact path="/climas" component={Climas} />
                     <Route exact path='/perfil' render={(props) => {
