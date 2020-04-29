@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Home from './Home.js'
 import SlideView from './Slideview'
 import Perfil from './Perfil.js'

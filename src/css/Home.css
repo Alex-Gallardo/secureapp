@@ -1,3 +1,8 @@
+.home-error{
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
 .home-container {
     display: flex;
     flex-direction: column;

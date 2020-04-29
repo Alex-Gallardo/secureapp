@@ -14,11 +14,11 @@ class Perfil extends Component {
                 <div className="perfil-nav">
                     <Link to="/"><img src={back} alt="back" width='24px'/></Link>
                     <h4>Alex Gallardo</h4>
-                    <p className="lead">Segure</p>
+                    <p className="lead">ScApp</p>
                 </div>
-                <div className="perfil-info container">
+                <div className="perfil-info container animated slideInUp fast">
                     <div className="perfil-perfil">
-                        <img src={perfil} className="perfil-img" alt="perfil" width="60px" />
+                        <img src={perfil} className="perfil-img animated fadeIn delay-1s" alt="perfil" width="60px" />
                         <h3>Usuario normal</h3>
                         <p className="lead">Guatemala, city</p>
                         <div className="perfil-ins"> Individual</div>

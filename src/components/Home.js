@@ -14,12 +14,12 @@ class Home extends Component {
     state = {}
     render() {
         return (
-            <React.Fragment>
+            <div className='home-error'>
                 <div className="container home-container">
                     <Navegation />
                     <h2>SecureApp</h2>
                     <p className="m-botop">added 1 package from 6 contributors and audited 931461 packages in 21.837s</p>
-                    <Link to="/info/0"><div className="home-section m-botop">
+                    <Link to="/info/0"><div className="home-section m-botop animated fadeInRight">
                         <div className="home-parf">
                             <h3>Segurity Home</h3>
                             <p>Waiting for update</p>
@@ -29,7 +29,7 @@ class Home extends Component {
                     {/* <div className="home-space"></div> */}
 
                     <h2 >Para ti</h2>
-                    <div className="home-options">
+                    <div className="home-options animated fadeInRight">
                         <ul className="home-ul">
                             <li className="home-li">
                                 <Link to="/info/1"><div className="home-section m-botop2" style={{ background: "#F20F38" }}>
@@ -66,7 +66,7 @@ class Home extends Component {
                     <Link to="/info/5"><img src={online} alt="bar-nav-img" width="32px" /></Link>
                     <Link to="/info/6"><img src={business} alt="bar-nav-img" width="32px" /></Link>
                 </div>
-            </React.Fragment>
+            </div>
         );
     }
 }

@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    /* background-color:  gray; */
-    background-image: url('https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif');
+    background-color: #C8D2DB;
+    /* background-image: url('https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif'); */
     width: 100%;
     height: 100vh;
 }
@@ -92,7 +92,7 @@
     align-items: center;
     justify-content: space-around;
     margin: 16px 0px;
-    color: white;
+    color: #0B0B0B;
 }
 
 .perfil-nav p{
