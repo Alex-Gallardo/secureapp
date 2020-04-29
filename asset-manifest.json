@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/secureapp/static/css/main.ae6a7b28.chunk.css",
-    "main.js": "/secureapp/static/js/main.d0a6adc0.chunk.js",
-    "main.js.map": "/secureapp/static/js/main.d0a6adc0.chunk.js.map",
+    "main.css": "/secureapp/static/css/main.df84ddca.chunk.css",
+    "main.js": "/secureapp/static/js/main.dd8a1bf8.chunk.js",
+    "main.js.map": "/secureapp/static/js/main.dd8a1bf8.chunk.js.map",
     "runtime-main.js": "/secureapp/static/js/runtime-main.71a426c7.js",
     "runtime-main.js.map": "/secureapp/static/js/runtime-main.71a426c7.js.map",
-    "static/js/2.671fb148.chunk.js": "/secureapp/static/js/2.671fb148.chunk.js",
-    "static/js/2.671fb148.chunk.js.map": "/secureapp/static/js/2.671fb148.chunk.js.map",
+    "static/js/2.7735b79c.chunk.js": "/secureapp/static/js/2.7735b79c.chunk.js",
+    "static/js/2.7735b79c.chunk.js.map": "/secureapp/static/js/2.7735b79c.chunk.js.map",
     "index.html": "/secureapp/index.html",
-    "precache-manifest.18d024d7be61e45e31248433e7194628.js": "/secureapp/precache-manifest.18d024d7be61e45e31248433e7194628.js",
+    "precache-manifest.667d2cb47ef66f97106dbc2d00d2d8d0.js": "/secureapp/precache-manifest.667d2cb47ef66f97106dbc2d00d2d8d0.js",
     "service-worker.js": "/secureapp/service-worker.js",
-    "static/css/main.ae6a7b28.chunk.css.map": "/secureapp/static/css/main.ae6a7b28.chunk.css.map",
-    "static/js/2.671fb148.chunk.js.LICENSE.txt": "/secureapp/static/js/2.671fb148.chunk.js.LICENSE.txt",
+    "static/css/main.df84ddca.chunk.css.map": "/secureapp/static/css/main.df84ddca.chunk.css.map",
+    "static/js/2.7735b79c.chunk.js.LICENSE.txt": "/secureapp/static/js/2.7735b79c.chunk.js.LICENSE.txt",
     "static/media/Chat.svg": "/secureapp/static/media/Chat.479c7514.svg",
-    "static/media/back.svg": "/secureapp/static/media/back.6c9efe0c.svg",
+    "static/media/back.svg": "/secureapp/static/media/back.5b8abd34.svg",
     "static/media/business.svg": "/secureapp/static/media/business.795b3a1c.svg",
     "static/media/data.svg": "/secureapp/static/media/data.0f7eedb5.svg",
     "static/media/financial.svg": "/secureapp/static/media/financial.e9af2a43.svg",
-    "static/media/fondo1.8b4ef1d0.svg": "/secureapp/static/media/fondo1.8b4ef1d0.svg",
     "static/media/map.svg": "/secureapp/static/media/map.1a3428e4.svg",
     "static/media/menu.svg": "/secureapp/static/media/menu.edbbb5b7.svg",
     "static/media/mesajes.svg": "/secureapp/static/media/mesajes.c8de55a4.svg",
@@ -32,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.71a426c7.js",
-    "static/js/2.671fb148.chunk.js",
-    "static/css/main.ae6a7b28.chunk.css",
-    "static/js/main.d0a6adc0.chunk.js"
+    "static/js/2.7735b79c.chunk.js",
+    "static/css/main.df84ddca.chunk.css",
+    "static/js/main.dd8a1bf8.chunk.js"
   ]
 }
