@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/secureapp/static/css/main.3391d7f1.chunk.css",
-    "main.js": "/secureapp/static/js/main.83aadd7d.chunk.js",
-    "main.js.map": "/secureapp/static/js/main.83aadd7d.chunk.js.map",
+    "main.css": "/secureapp/static/css/main.ae6a7b28.chunk.css",
+    "main.js": "/secureapp/static/js/main.d0a6adc0.chunk.js",
+    "main.js.map": "/secureapp/static/js/main.d0a6adc0.chunk.js.map",
     "runtime-main.js": "/secureapp/static/js/runtime-main.71a426c7.js",
     "runtime-main.js.map": "/secureapp/static/js/runtime-main.71a426c7.js.map",
     "static/js/2.671fb148.chunk.js": "/secureapp/static/js/2.671fb148.chunk.js",
     "static/js/2.671fb148.chunk.js.map": "/secureapp/static/js/2.671fb148.chunk.js.map",
     "index.html": "/secureapp/index.html",
-    "precache-manifest.8a872aeb09b88bcef8e5177c3f8435e6.js": "/secureapp/precache-manifest.8a872aeb09b88bcef8e5177c3f8435e6.js",
+    "precache-manifest.28c3c4db16ec291b4e0c12db37621616.js": "/secureapp/precache-manifest.28c3c4db16ec291b4e0c12db37621616.js",
     "service-worker.js": "/secureapp/service-worker.js",
-    "static/css/main.3391d7f1.chunk.css.map": "/secureapp/static/css/main.3391d7f1.chunk.css.map",
+    "static/css/main.ae6a7b28.chunk.css.map": "/secureapp/static/css/main.ae6a7b28.chunk.css.map",
     "static/js/2.671fb148.chunk.js.LICENSE.txt": "/secureapp/static/js/2.671fb148.chunk.js.LICENSE.txt",
     "static/media/Chat.svg": "/secureapp/static/media/Chat.479c7514.svg",
     "static/media/back.svg": "/secureapp/static/media/back.6c9efe0c.svg",
     "static/media/business.svg": "/secureapp/static/media/business.795b3a1c.svg",
     "static/media/data.svg": "/secureapp/static/media/data.0f7eedb5.svg",
     "static/media/financial.svg": "/secureapp/static/media/financial.e9af2a43.svg",
+    "static/media/fondo1.8b4ef1d0.svg": "/secureapp/static/media/fondo1.8b4ef1d0.svg",
     "static/media/map.svg": "/secureapp/static/media/map.1a3428e4.svg",
     "static/media/menu.svg": "/secureapp/static/media/menu.edbbb5b7.svg",
     "static/media/mesajes.svg": "/secureapp/static/media/mesajes.c8de55a4.svg",
@@ -32,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.71a426c7.js",
     "static/js/2.671fb148.chunk.js",
-    "static/css/main.3391d7f1.chunk.css",
-    "static/js/main.83aadd7d.chunk.js"
+    "static/css/main.ae6a7b28.chunk.css",
+    "static/js/main.d0a6adc0.chunk.js"
   ]
 }

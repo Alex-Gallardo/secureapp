@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1eac88bb9d8d38cb0782cc2e0e60a202",
+    "revision": "0ff9c2ff525df195b2e6ed2033e94a0a",
     "url": "/secureapp/index.html"
   },
   {
-    "revision": "5c54461ead490216318f",
-    "url": "/secureapp/static/css/main.3391d7f1.chunk.css"
+    "revision": "caf6753f00910c854afb",
+    "url": "/secureapp/static/css/main.ae6a7b28.chunk.css"
   },
   {
     "revision": "1cc52a177a19990c803c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/secureapp/static/js/2.671fb148.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5c54461ead490216318f",
-    "url": "/secureapp/static/js/main.83aadd7d.chunk.js"
+    "revision": "caf6753f00910c854afb",
+    "url": "/secureapp/static/js/main.d0a6adc0.chunk.js"
   },
   {
     "revision": "202d710c2e5b4d6022dc",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e9af2a4372a5bed775eff094e0a167c5",
     "url": "/secureapp/static/media/financial.e9af2a43.svg"
+  },
+  {
+    "revision": "8b4ef1d019edcf43726dc32ee7728b30",
+    "url": "/secureapp/static/media/fondo1.8b4ef1d0.svg"
   },
   {
     "revision": "1a3428e4310c0e1b994068c84f41a1b3",
