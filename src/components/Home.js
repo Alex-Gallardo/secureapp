@@ -61,9 +61,9 @@ class Home extends Component {
                     </div>
                 </div>
                 <div className="home-footer">
-                    <Link to="/info/4"><img src={mesajes} alt="bar-nav-img" width="32px" /></Link>
-                    <Link to="/info/5"><img src={online} alt="bar-nav-img" width="32px" /></Link>
-                    <Link to="/info/6"><img src={business} alt="bar-nav-img" width="32px" /></Link>
+                    <Link to="/infoTwo/1"><img src={mesajes} alt="bar-nav-img" width="32px" /></Link>
+                    <Link to="/infoTwo/2"><img src={online} alt="bar-nav-img" width="32px" /></Link>
+                    <Link to="/infoTwo/3"><img src={business} alt="bar-nav-img" width="32px" /></Link>
                 </div>
             </div>
         );

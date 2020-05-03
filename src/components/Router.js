@@ -4,6 +4,7 @@ import Home from './Home.js'
 import SlideView from './Slideview'
 import Perfil from './Perfil.js'
 import Information from './Information'
+import Information2 from './Information2'
 
 class Router extends Component {
     // colocar los datos del clima
@@ -22,6 +23,15 @@ class Router extends Component {
                         return (
                             <Information
                                 secc={idclima}
+                            />
+                        )
+                    }}></Route>
+                    <Route exact path='/infoTwo/:infoId' render={(props) => {
+                        // console.log('Props.', props)
+                        let id = props.location.pathname.replace('/infoTwo/', '')
+                        return (
+                            <Information2
+                                secc={id}
                             />
                         )
                     }}></Route>

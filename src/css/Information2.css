@@ -1,0 +1,77 @@
+.infoTwo-primero{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-image: url("https://media.giphy.com/media/iGpHt2H22k1orjgT9b/giphy.gif");
+    flex-direction: column;
+    /* background-color: darkslateblue; */
+    justify-content: flex-end;
+    position: relative;
+}
+
+.infoTwo-primero:before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #011826de;
+}
+
+.infoTwo-segundo{
+    width: 100%;
+    height: 60%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: #a173f0;
+    justify-content: flex-end;
+    border-radius: 35px;
+}
+
+.infoTwo-tercero{
+    width: 100%;
+    height: 85%;
+    background-color: ghostwhite;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    padding-top: 24px;
+    color: #0B0B0B;
+}
+
+.infoTwo-cont-primero{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    padding: 16px;
+    color: #fff;
+}
+
+.infoTwo-bottoms{
+    display: flex;
+    width: 70%;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.infoTwo-bottoms button{
+    height: 32px;
+    width: 100px;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
+
+.infoTwo-cont-segundo{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    color: #fff;
+}
