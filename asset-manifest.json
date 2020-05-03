@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/secureapp/static/css/main.df84ddca.chunk.css",
-    "main.js": "/secureapp/static/js/main.dd8a1bf8.chunk.js",
-    "main.js.map": "/secureapp/static/js/main.dd8a1bf8.chunk.js.map",
+    "main.css": "/secureapp/static/css/main.093a133c.chunk.css",
+    "main.js": "/secureapp/static/js/main.9b4285a2.chunk.js",
+    "main.js.map": "/secureapp/static/js/main.9b4285a2.chunk.js.map",
     "runtime-main.js": "/secureapp/static/js/runtime-main.71a426c7.js",
     "runtime-main.js.map": "/secureapp/static/js/runtime-main.71a426c7.js.map",
     "static/js/2.7735b79c.chunk.js": "/secureapp/static/js/2.7735b79c.chunk.js",
     "static/js/2.7735b79c.chunk.js.map": "/secureapp/static/js/2.7735b79c.chunk.js.map",
     "index.html": "/secureapp/index.html",
-    "precache-manifest.667d2cb47ef66f97106dbc2d00d2d8d0.js": "/secureapp/precache-manifest.667d2cb47ef66f97106dbc2d00d2d8d0.js",
+    "precache-manifest.e393e2f59a3811e987f27e5d5c9289e1.js": "/secureapp/precache-manifest.e393e2f59a3811e987f27e5d5c9289e1.js",
     "service-worker.js": "/secureapp/service-worker.js",
-    "static/css/main.df84ddca.chunk.css.map": "/secureapp/static/css/main.df84ddca.chunk.css.map",
+    "static/css/main.093a133c.chunk.css.map": "/secureapp/static/css/main.093a133c.chunk.css.map",
     "static/js/2.7735b79c.chunk.js.LICENSE.txt": "/secureapp/static/js/2.7735b79c.chunk.js.LICENSE.txt",
     "static/media/Chat.svg": "/secureapp/static/media/Chat.479c7514.svg",
     "static/media/back.svg": "/secureapp/static/media/back.5b8abd34.svg",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.71a426c7.js",
     "static/js/2.7735b79c.chunk.js",
-    "static/css/main.df84ddca.chunk.css",
-    "static/js/main.dd8a1bf8.chunk.js"
+    "static/css/main.093a133c.chunk.css",
+    "static/js/main.9b4285a2.chunk.js"
   ]
 }
